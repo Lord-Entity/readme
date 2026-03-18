@@ -77,4 +77,5 @@ For technical consultations or project inquiries, please utilize the following c
   <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Bazil_Suhail"><img title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
 ---
