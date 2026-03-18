@@ -73,6 +73,7 @@ Computer scientist by trade, problem-solver by nature. I spend my time turning c
 For technical consultations or project inquiries, please utilize the following channels:
 
 <p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bazil1854@gmail.com&su=Inquiry:%20Open%20Source%20Collaboration%20%26%20Engineering&body=Hi%20Bazil,%0A%0AI've%20been%20following%20your%20open-source%20contributions%20and%20projects.%20I'd%20like%20to%20discuss%20a%20potential%20collaboration%20or%20project.%0A%0AProject%20Details:%0A[Briefly%20describe%20the%20initiative]%0A%0AConnection:%0A[GitHub/Portfolio/Referral]%0A%0ABest%20regards,%0A[Your%20Name]"><img title="Email Bazil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:bazil1854@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Bazil_Suhail"><img title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
