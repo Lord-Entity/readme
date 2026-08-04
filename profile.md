@@ -38,35 +38,17 @@ I like building things end-to-end, from the UI layer all the way down to the inf
 ---
 
 > [!TIP]
-> Bazil Suhail: "Build for impact, not hype. Code that solves real problems > code that looks cool on Twitter."
-
-
-.-'""'-.     /////////////////////////////////////////////////
-    .-'        '-.  //                                             //
-   (   Bazil      ) //  "Build for impact, not hype.               //
-  (    Suhail      )//   Code that solves real problems >          //
-   (            .-' //   code that looks cool on Twitter."         //
-    '-.____..--'    //                                             //
-             (   )  /////////////////////////////////////////////////
-            ( ( )
-             ) )
-           (______
-          /   __  \========(~ ~ ~)
-         /___/  \__\
-
+> ```
+>  _______
+> /        \
+> | ()  () |    🚬  "Build for Impact, not for Hype.
+> |   __   |----~    Code that solves real problems > 
+>  \  --  /          code that looks cool on Twitter."
+>   \____/                                             — Bazil Suhail
+> ```
 ---
 
-### What I'm Up To
-
-- Building something I can't tell you about yet *(NDA stuff, you know the drill)*
-- Experimenting with **Rust + WebAssembly** for fun and profit
-- Writing documentation nobody will read *(but future me will thank me)*
-
----
-
-### Open Source
-
-Check out my packages:
+##### Open Source - Check out my packages:
 
 <p align="left">
   <a href="https://npmx.dev/~bazil-suhail">
@@ -79,6 +61,12 @@ Check out my packages:
 </p>
 
 ---
+
+### What I'm Up To
+
+- Building something I can't tell you about yet *(NDA stuff, you know the drill)*
+- Experimenting with **Rust + WebAssembly** for fun and profit
+- Writing documentation nobody will read *(but future me will thank me)*
 
 ### Hit Me Up
 
