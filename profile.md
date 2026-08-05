@@ -48,40 +48,20 @@ I like building things end-to-end, from the UI layer all the way down to the inf
 > ```
 ---
 
-##### Open Source - Check out my packages:
-
-<p align="left">
-  <a href="https://npmx.dev/~bazil-suhail">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-  </a>
-  &nbsp;
-  <a href="https://pypi.org/user/BazilSuhail/">
-    <img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
-  </a>
-</p>
-
----
-
-### What I'm Up To
-
-- Building something I can't tell you about yet *(NDA stuff, you know the drill)*
-- Experimenting with **Rust + WebAssembly** for fun and profit
-- Writing documentation nobody will read *(but future me will thank me)*
-
-### Hit Me Up
-
-<p align="left">
-  <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Bazil_Suhail"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bazil-suhail&style=flat-square&color=orange" alt="profile views" />
-  <br><br>
-  <i>"If at first you don't succeed, call it version 1.0"</i>
-</div>
+> **Open Source Registries - Check out my packages:**
+>
+> <a href="https://npmx.dev/~bazil-suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+> &nbsp;
+> <a href="https://pypi.org/user/BazilSuhail/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
+>
+> ---
+>
+> **Want to Collaborate/Contibute ? Reach Out Here**
+>
+> <img src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat&color=FF5500&label=PROFILE+VIEWS" alt="profile views" />
+> &nbsp;
+> <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+> &nbsp;
+> <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+> &nbsp;
+> <a href="https://www.youtube.com/@Bazil_Suhail"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
