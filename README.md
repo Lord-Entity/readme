@@ -1,3 +1,5 @@
+![Entity React Modals](https://cdn.jsdelivr.net/gh/Lord-Entity/readme@main/entity-react-modals.gif)
+
 <h1 align="left">
   Yo, I'm Bazil Suhail! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
