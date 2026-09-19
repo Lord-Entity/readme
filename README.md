@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=500&height=40&duration=4000&lines=Building+digital+experiences+that+stick;Crafting+SaaS+with+personality;Turning+complex+logic+into+clean+code" />
 </p>
 
+<img width="504" height="240" alt="modals" src="https://github.com/user-attachments/assets/5590127d-84b3-4525-a01c-4db9cacd6a31" />
+
+
+
 ---
 
 ```diff
