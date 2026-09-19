@@ -9,6 +9,8 @@
 ![Alt Text](https://raw.githubusercontent.com/Lord-Entity/readme/main/ezgif-26c988620569e9c2%20(1).gif)
 
 
+![Entity React Modals](https://raw.githubusercontent.com/Lord-Entity/readme/main/entity-react-modals.gif)
+
 ---
 
 ```diff
