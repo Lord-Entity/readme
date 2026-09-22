@@ -1,10 +1,11 @@
 <p align="left">
   <a href="https://rankistan.dev/#Bazilsuhail">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FBazilsuhail&style=plastic" alt="Rankistan rank badge" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FBazilsuhail&style=flat-square" alt="Rankistan rank badge" />
   </a>
   <a href="https://user-badge.committers.top/pakistan/BazilSuhail">
     <img src="https://user-badge.committers.top/pakistan/BazilSuhail.svg" alt="committers.top badge" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square&color=FF0000&label=profile+views" alt="Profile Views" />
 </p>
 
 ## Yo, I'm Bazil Suhail! <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="22">
@@ -56,6 +57,14 @@ I like building systems end to end whether desktop, web, or mobile focusing pure
 > -   \____/                                                                            
 > ```
 
+
+### Key Projects
+
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/BazilSuhail/YaarScript"><b>YaarScript</b></a> | Custom interpreted programming language crafted from scratch to make coding feel ridiculously native and expressive. |
+| <a href="https://github.com/BazilSuhail/ZEVRA"><b>ZEVRA</b></a> | High-performance AI automation engine designed to eliminate manual workflows and optimize execution speed. |
+| <a href="https://github.com/BazilSuhail/Collabora8r-Client"><b>Collabor8r</b></a> | Real-time workspace platform engineered for seamless dev collaboration and instant synchronization. |
 
 > **Open Source Registries - Check out my packages:**
 >
