@@ -1,20 +1,29 @@
-## Yo, I'm Bazil Suhail! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+<p align="left">
+  <a href="https://rankistan.dev/#Bazilsuhail">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FBazilsuhail&style=plastic" alt="Rankistan rank badge" />
+  </a>
+  <a href="https://user-badge.committers.top/pakistan/BazilSuhail">
+    <img src="https://user-badge.committers.top/pakistan/BazilSuhail.svg" alt="committers.top badge" />
+  </a>
+</p>
+
+## Yo, I'm Bazil Suhail! <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="22">
 
 ```diff
-+ I break things so I can build them better!
-! Script creator by day, open-source contributor by night
-- "Why do it manually when code can do it instantly?" - personal rule
+- I break things so I can build them better!
++ Script creator by day, open-source contributor by night
+! "Why do it manually when code can do it instantly?" - personal rule
 ```
 
 ---
 
 ### Who Am I?
 
-I like building things end-to-end, from the UI layer all the way down to the infrastructure. Obsessed with automation, scalable system architecture, and writing code that doesn't suck *(most of the time)*. If there's a repetitive process, I'll automate it. If there's a bottleneck, I'll redesign it.
+I like building systems end to end whether desktop, web, or mobile focusing purely on solving real world problems. Obsessed with automation, scalable architecture, and writing clean, reliable code. If there is a manual process, I will script it. If there is a bottleneck, I will redesign it. Every single day, I like to:
 
-- Building reusable libraries so I don't repeat myself like a broken record
-- Interested in distributed systems and designing things that scale
-- Crafting fluid animations and ultra-usable UIs that feel less like rocket science, more like magic
+- Craft raw full stack systems across desktop, web, and mobile that solve actual problems
+- Ship optimal zero dependency open source packages to kill boilerplate so I never rewrite the same code twice
+- Cook up buttery smooth interfaces with crazy fluid micro animations
 
 ---
 
@@ -38,23 +47,21 @@ I like building things end-to-end, from the UI layer all the way down to the inf
 ---
 
 > [!TIP]
+> ```diff
+> -  _______                                                                           
+> - /       \                                                                          
+> ! | ()  () |    🚬 "Build for Impact, not for Hype.                                  
+> ! |   __   |----~   Code that solves real problems > code that looks cool on Twitter."
+> -  \  --  /                                                         — Bazil Suhail    
+> -   \____/                                                                            
 > ```
->  _______
-> /        \
-> | ()  () |    🚬  "Build for Impact, not for Hype.
-> |   __   |----~    Code that solves real problems > 
->  \  --  /          code that looks cool on Twitter."
->   \____/                                             — Bazil Suhail
-> ```
----
+
 
 > **Open Source Registries - Check out my packages:**
 >
-> <a href="https://npmx.dev/~bazil-suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+> <a href="https://npmx.dev/~bazil_suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
 > &nbsp;
 > <a href="https://pypi.org/user/BazilSuhail/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
->
-> ---
 >
 > **Want to Collaborate/Contibute ? Reach Out Here**
 >
