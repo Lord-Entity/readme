@@ -13,7 +13,7 @@
 ```diff
 - I break things so I can build them better!
 + Script creator by day, open-source contributor by night
-! "Why do it manually when code can do it instantly?" - personal rule
+! "Code that actually fixes real problems > Code that just farms impressions"
 ```
 
 ---
@@ -66,18 +66,29 @@ I like building systems end to end whether desktop, web, or mobile focusing pure
 | <a href="https://github.com/BazilSuhail/ZEVRA"><b>ZEVRA</b></a> | High-performance AI automation engine designed to eliminate manual workflows and optimize execution speed. |
 | <a href="https://github.com/BazilSuhail/Collabora8r-Client"><b>Collabor8r</b></a> | Real-time workspace platform engineered for seamless dev collaboration and instant synchronization. |
 
-> **Open Source Registries - Check out my packages:**
+### Open Source & Packages
+
+| Package | Description |
+| :--- | :--- |
+| <a href="https://www.npmjs.com/package/entity-react-modals"><b>entity-react-modals</b></a> | Zero-boilerplate global state modal engine for React that eliminates manual open/close state logic across complex application flows. |
+| <a href="https://www.npmjs.com/package/react-form-rewind"><b>react-form-rewind</b></a> | Ultra-lightweight form state manager designed to track, rewind, and restore form mutations with minimal re-renders. |
+| <a href="https://www.npmjs.com/package/unimailer"><b>unimailer</b></a> | Unified, provider-agnostic transactional email engine engineered to seamlessly route and fallback across multiple SMTP/API providers. |
+
+---
+
+> [!TIP]
+> **Open Source & Contributions**  
+> Found something useful? Consider dropping a ⭐ on the repository to support further development.
 >
 > <a href="https://npmx.dev/~bazil_suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
 > &nbsp;
 > <a href="https://pypi.org/user/BazilSuhail/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
->
-> **Want to Collaborate/Contibute ? Reach Out Here**
->
-> <img src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat&color=FF5500&label=PROFILE+VIEWS" alt="profile views" />
+
+> **Reach Out & Connect**
 > &nbsp;
-> <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+> <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 > &nbsp;
-> <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+> <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 > &nbsp;
-> <a href="https://www.youtube.com/@Bazil_Suhail"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+> <a href="https://www.reddit.com/user/BazilSuhail/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+> &nbsp;
